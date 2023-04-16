@@ -1,7 +1,7 @@
 {
-  "name": "forkify",
+  "name": "CN Food",
   "version": "1.0.0",
-  "description": "forkify project",
+  "description": "CN Food project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
